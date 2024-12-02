@@ -1,0 +1,11 @@
+body{
+    background: url(../ASSETS2/img3/yes.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-variant-position: center;
+    color: #fff;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(136, 173, 195) !important;
+}

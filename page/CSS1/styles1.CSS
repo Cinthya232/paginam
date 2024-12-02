@@ -1,0 +1,52 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background: url(../ASSETS1/img1/house.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-variant-position: center;
+    color: #fff;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #c6555a !important;
+
+}
+h2{
+    font-size: 3rem;
+    color: #e9f6ff ;
+    letter-spacing: 0.4rem;
+    font-family: "Creepster", serif;
+    text-shadow: 
+    0 0 5px #ba1f1f, 
+    0 0 10px #ba1f1f, 
+    0 0 15px #ba1f1f;
+
+}
+h3{
+    color: #6ad446;
+    text-shadow: 
+    0 0 5px #267d28, 
+    0 0 10px #267d28, 
+    0 0 15px #267d28;
+
+}
+.logo{
+    width: 5rem;
+    height: 4rem;
+    padding-right: 5px;
+}
+
+.gif{
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+.dropdown-menu {
+    --bs-dropdown-bg: #d86060;
+}
